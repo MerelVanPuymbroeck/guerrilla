@@ -8,8 +8,9 @@ De huidige website maakt geen gebruik van een lay-out of grid waardoor het op ee
 ##### Software
 
 1. HTML 5
-1. CSS
-1. SASS
+2. CSS
+3. SASS
+4. Bootstrap
 
 ##### Wanneer?
 
@@ -23,3 +24,6 @@ De huidige website wordt nog vernieuwd met nieuwe acties, strips etc. Maar de la
 
 Ik heb gewerkt met flexbox, zo ontstaat er een lay-out waarbij wel is nagedacht. Daarnaast heb ik gekozen voor ruime groote beelden. De teksten staan mooi uitgelijnd en passen bij het totale beeldje. Doordat ik heb gewerkt met divs en containers ontstaan er vakken waarin mijn paragrafen minder chaotisch overkomen dan bij de huidige website. 
 
+> Beo:
+
+> Na veertig jaar verkoopt Beo (59) nog steeds met evenveel passie strips en gadgets bij stripwinkel Beo. “De grootste beloning is klanten in tranen zien als ze hét ontbrekende exemplaar gevonden hebben.”
