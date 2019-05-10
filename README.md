@@ -27,3 +27,15 @@ Ik heb gewerkt met flexbox, zo ontstaat er een lay-out waarbij wel is nagedacht.
 > Beo:
 
 > Na veertig jaar verkoopt Beo (59) nog steeds met evenveel passie strips en gadgets bij stripwinkel Beo. “De grootste beloning is klanten in tranen zien als ze hét ontbrekende exemplaar gevonden hebben.”
+
+##### Code
+as you can see I worked a bit with flexbox cause it's really handy to use and get your elements where you want to have them.
+It's a easy way with your flex container too style it.
+
+```  <div  class="flex-container">
+      <img class="img" src="comic2.jpeg" alt="strips">
+      <p class ="welkom"> <strong>Welkom</strong><br> op de website van <strong>Stripwinkel Beo,</strong> sinds 1977 het kloppende hart van de strip. Als u een liefhebber van stripverhalen bent, op zoek naar een leuk cadeau  of bezeten van graphic novel, kan je deze site van  A tot Z doorzoeken  Lees verder ...  Online bestellen is vanaf nu mogelijk, u kunt nog altijd uiteraard via e-mail bestellen. Strips online kopen (of bestellen en zelf ophalen) is nu kinderspel, even registreren,inloggen, kiezen en bestellen...De laatste nieuwe strips staan nu op de website, klik op "nieuw" of hier  voor een overzicht.<br> <button class="button">Lees Meer</button> </p>
+    </div>```
+    
+    
+   
